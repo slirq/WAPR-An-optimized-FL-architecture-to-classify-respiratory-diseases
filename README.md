@@ -1,12 +1,20 @@
-# WAPR An optimized FL architecture to classify respiratory diseases
-1. ![WEIGHT~1_page-0001](https://github.com/slirq/WAPR-An-optimized-FL-architecture-to-classify-respiratory-diseases/assets/43196991/542309a5-63ce-4232-b1d5-200da6ef3bf5)
-2. ![WEIGHT~1_page-0002](https://github.com/slirq/WAPR-An-optimized-FL-architecture-to-classify-respiratory-diseases/assets/43196991/ca1c80f4-bba7-4714-b8f1-8210bc220398)
-3. ![WEIGHT~1_page-0003](https://github.com/slirq/WAPR-An-optimized-FL-architecture-to-classify-respiratory-diseases/assets/43196991/592676c4-0437-4a6b-9fab-9ebffd3c174e)
-4. ![WEIGHT~1_page-0004](https://github.com/slirq/WAPR-An-optimized-FL-architecture-to-classify-respiratory-diseases/assets/43196991/6b39ee94-f178-4c27-9b9e-3595e789cd4f)
-5. ![WEIGHT~1_page-0005](https://github.com/slirq/WAPR-An-optimized-FL-architecture-to-classify-respiratory-diseases/assets/43196991/f12f41ba-146e-446d-9b0a-10bb4cc68cdf)
-6. ![WEIGHT~1_page-0006](https://github.com/slirq/WAPR-An-optimized-FL-architecture-to-classify-respiratory-diseases/assets/43196991/fded47a5-e40d-41dc-a25f-e6ffc03e66c9)
-7. ![WEIGHT~1_page-0007](https://github.com/slirq/WAPR-An-optimized-FL-architecture-to-classify-respiratory-diseases/assets/43196991/8be4d7ed-3355-4906-81d2-b9d69ab56811)
-8. ![WEIGHT~1_page-0008](https://github.com/slirq/WAPR-An-optimized-FL-architecture-to-classify-respiratory-diseases/assets/43196991/454701c0-b01e-4340-9208-74f164bb107d)
-9. ![WEIGHT~1_page-0009](https://github.com/slirq/WAPR-An-optimized-FL-architecture-to-classify-respiratory-diseases/assets/43196991/977066fa-b281-4ecf-9b84-23553f131d42)
-10. ![WEIGHT~1_page-0010](https://github.com/slirq/WAPR-An-optimized-FL-architecture-to-classify-respiratory-diseases/assets/43196991/bc1d50b5-0a6d-4173-8d39-bd3ced7b9bde)
-11. ![WEIGHT~1_page-0011](https://github.com/slirq/WAPR-An-optimized-FL-architecture-to-classify-respiratory-diseases/assets/43196991/f6226b03-d8b4-4b46-97ae-5b0219974a20)
+# Optimized Federated Learning for Respiratory Disease Classification
+
+## Overview
+
+This repository contains the code and supplementary materials for the paper titled "Weighted aggregation through probability based ranking: An optimized federated learning architecture to classify respiratory diseases," authored by Abdullah Abdul Sattar Shaikh, M. S. Bhargavi and Pavan C. The paper was published in Computer Methods and Programs in Biomedicine, Volume 242, in the year 2023.
+
+## Citation
+
+If you use this code or find it helpful in your research, please consider citing the following paper:
+
+**Weighted aggregation through probability based ranking: An optimized federated learning architecture to classify respiratory diseases**
+
+- **Authors:** Abdullah Abdul Sattar Shaikh, M. S. Bhargavi, and others
+- **Journal:** Computer Methods and Programs in Biomedicine
+- **Volume:** 242
+- **Pages:** 107821
+- **Year:** 2023
+
+[Link to the paper](https://www.sciencedirect.com/science/article/pii/S016926072300487X?casa_token=LRT3wyEITn8AAAAA:AXjYTigkIi0cevzEq5qOXJ02lR0tcNTG0tsVe00N0ylwBMCkojPOi4UzneE7Q5mESy3TIfCgzp4)
+
